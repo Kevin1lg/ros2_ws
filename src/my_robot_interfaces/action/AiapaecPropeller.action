@@ -1,0 +1,12 @@
+# Goal
+int16 tp1
+int16 tp2
+float64 period
+---
+# Result
+int16 tp1_result
+int16 tp2_result
+---
+# Feedback
+int16 tp1_feedback
+int16 tp2_feedback
