@@ -1,0 +1,9 @@
+# Goal
+int16 status
+float64 period
+---
+# Result
+int16 status_result
+---
+# Feedback
+int16 status_feedback
